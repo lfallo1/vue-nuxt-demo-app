@@ -1,6 +1,6 @@
 <template>
   <div class="users-wrapper">
-    <h5>Users Section</h5>
+    <h5>Premium Section</h5>
     <nuxt/>
     <small>Footer</small>
   </div>

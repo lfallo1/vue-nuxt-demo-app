@@ -12,7 +12,7 @@
       return {}
     },
     created(){
-      console.log(this.$route);
+
     }
   }
 </script>

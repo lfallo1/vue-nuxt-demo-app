@@ -17,10 +17,7 @@
 
 <script>
 
-  import NuxtChild from "../.nuxt/components/nuxt-child";
-
   export default {
-    components: {NuxtChild},
     data(){
       return {
         upper: false,
